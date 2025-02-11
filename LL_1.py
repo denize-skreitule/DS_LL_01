@@ -20,14 +20,10 @@ class LinkedList:
             self.tail.next = new_node
             self.tail = new_node
         return True
-        
+    find_middle_node
+    
 
-    # WRITE FIND_MIDDLE_NODE METHOD HERE #
-    #                                    #
-    #                                    #
-    #                                    #
-    #                                    #
-    ######################################
+
 
 
 
